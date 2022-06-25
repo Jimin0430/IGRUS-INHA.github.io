@@ -2,16 +2,12 @@
 layout: page
 current: about
 title: About
-navigation: true
+navigation: True
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+IGRUS(아이그루스)는 Inha Group of Research for Unix Security의 약자로서 2000년부터 시작된 정통처 산하 컴퓨터학술자치회입니다. 5동 003호에 위치한 저희 동아리는 프로그래밍에 관심과 열정을 쏟는 사람들이 모인 동아리입니다. 또한 보안 동아리로써는 현재 국내 대학교들 중 2번째로 오랜 역사를 지니고 있는 동아리임과 동시에 인하대에서 가장 많은 회원을 보유한 동아리입니다.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+현재 컴퓨터공학과, 정보통신공학과의 많은 학생과 더불어 경영학과, 문화콘텐츠학과, 디자인학과, 기계공학과, 전기과, 의학과 등 다양한 학과의 학생들이 활동하고 있으며 이를 토대로 높은 실적 및 인적 커뮤니티를 쌓아가고 있습니다. 오랜 시간동안 아이그루스는 인하대를 대표하는 학술 동아리로써 인하대에서 많은 학우들에게 선택과 검증을 받고 좋은 동아리로 운영되어 왔으며 많은 졸업생들도 졸업 이후에 인생에도 지속적으로 후배들에게 긍정적인 영향을 끼치면서 네트워크와 학술 분위기를 유지하고 있습니다.

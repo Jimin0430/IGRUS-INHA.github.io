@@ -33,6 +33,8 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 
+    <!-- 폰트 설정 -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
