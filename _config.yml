@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: IGRUS-INHA
 repo: IGRUS-INHA.github.io
-branch: main
+branch: master
 relative_source: ../IGRUS-INHA.github.io/
 destination: ../IGRUS-INHA.github.io-pages/
 production_url:  https://igrus-inha.github.io/
