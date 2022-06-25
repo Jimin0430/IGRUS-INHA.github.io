@@ -65,15 +65,15 @@ feed:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: False
-lsi: False
-username: IGRUS-INHA
-repo: IGRUS-INHA.github.io
-branch: main
-relative_source: ../IGRUS-INHA.github.io/
-destination: ../IGRUS-INHA.github.io-pages/
-production_url:  https://igrus-inha.github.io/
-source_url:  https://github.com/IGRUS-INHA/IGRUS-INHA.github.io/
+# safe: False
+# lsi: False
+# username: IGRUS-INHA
+# repo: IGRUS-INHA.github.io
+# branch: main
+# relative_source: ../IGRUS-INHA.github.io/
+# destination: ../IGRUS-INHA.github.io-pages/
+# production_url:  https://igrus-inha.github.io/
+# source_url:  https://github.com/IGRUS-INHA/IGRUS-INHA.github.io/
 
 exclude:
   - assets/css
