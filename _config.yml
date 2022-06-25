@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+username: IGRUS-INHA
+repo: IGRUS-INHA.github.io
+branch: main
+relative_source: ../IGRUS-INHA.github.io/
+destination: ../IGRUS-INHA.github.io-pages/
+production_url:  https://igrus-inha.github.io/
+source_url:  https://github.com/IGRUS-INHA/IGRUS-INHA.github.io/
 
 exclude:
   - assets/css
